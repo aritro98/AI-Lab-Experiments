@@ -6,7 +6,7 @@ This repository contains all lab assignments from our 3rd-year **Artificial Inte
 - **Fundamental Programming**: List Manipulation and Basic Algorithms (Max-Value Search)  
 - **Uninformed & Informed Search**: BFS, DFS, Bi-Directional Search, Best-First Search, Uniform-Cost Search, A* Search 
 - **Path Planning & Navigation**: Robot Path planning, Multi-Goal Navigation, Puzzle Solving  
-- **Planning & Scheduling**: A*-based Task Planner, Comparative Analysis of Search Methods  
+- **Planning & Scheduling**: A* based Task Planner, Comparative Analysis of Search Methods  
 - **Heuristic & Optimization**: Hill-Climbing, Genetic Algorithms  
 - **Problem-Solving Challenges**: Water-Jug, 8-Puzzle  
 - **Adversarial Search**: 4-Queens, Tower of Hanoi  
