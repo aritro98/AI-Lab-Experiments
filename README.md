@@ -1,6 +1,6 @@
 # Artificial Intelligence Lab Experiments  
 
-This repository contains all lab assignments from our 3rd-year **Artificial Intelligence** course. Each `Assignment_##.ipynb` notebook steps through a classic AI problem combining theory, code, and results to build your understanding of intelligent algorithms.
+This repository contains all lab assignments from our 3rd-year **Artificial Intelligence** course. Each notebook steps through a classic AI problem combining theory, code, and results to build your understanding of intelligent algorithms.
 
 ## Topics Covered  
 - **Fundamental Programming**: List Manipulation and Basic Algorithms (Max-Value Search)  
