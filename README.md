@@ -12,8 +12,8 @@ This repository contains all lab assignments from our 3rd-year **Artificial Inte
 - **Adversarial Search**: 4-Queens, Tower of Hanoi  
 
 ## Repository Structure  
-- All notebooks live under the `AI_Lab/` directory.
-- Each file is named `Assignment_##.ipynb` and contains:
+- All the notebooks are placed under their respective directory.
+- Each notebook contains:
   - A problem statement
   - Step-by-Step Implementation in Python
   - Sample Inputs, Outputs, and Visualizations
